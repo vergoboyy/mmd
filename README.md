@@ -12,3 +12,16 @@
 10. **[Run Forge Server](https://github.com/vergoboyy/mmd/blob/main/10-run-server-forge.md)**: راه‌اندازی سرور Forge برای مادهای پیچیده‌تر.  
 11. **[Run Quilt Server](https://github.com/vergoboyy/mmd/blob/main/11-run-server-quilt.md)**: آشنایی با Quilt برای مدیریت بهتر مادها.  
 12. **[Counter-Strike 1.6](https://github.com/vergoboyy/mmd/blob/main/12-Counter-Strike-1.6.md)**: راهنمای اجرای سرور بازی کانتر 1.6.  
+
+---
+
+### Full Educational Video  
+برای مشاهده آموزش کامل، می‌توانید از لینک زیر استفاده کنید:  
+
+**[Download Educational Video](https://mega.nz/file/78YzyD7S)**  
+**Password:**  
+```
+L2L235bpealDAitympqpBYELJoK58Im21MPRsjmFRGM
+```
+
+---
