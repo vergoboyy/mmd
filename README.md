@@ -1,5 +1,6 @@
 این هم خلاصه همراه با لینک‌ها:  
 
+
 1. **[Minecraft Server](https://github.com/vergoboyy/mmd/blob/main/1-Minecraft-server.md)**: چرا سرور ماینکرفت باید روی سیستم عامل لینوکس باشه
 2. **[Tools](https://github.com/vergoboyy/mmd/blob/main/2-tools.md)**: معرفی ابزارهایی که برای مدیریت سرورها به‌درد می‌خورند.  
 3. **[Nano Editor](https://github.com/vergoboyy/mmd/blob/main/3-nano.md)**: آموزش کار با ویرایشگر ساده و کاربردی nano.  
